@@ -1,0 +1,26 @@
+.main-pending {
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
+
+.pending-bills {
+    margin-top: 8vh;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+td {
+    text-align: center;
+    padding: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+.pending-table, .pending-total {
+    font-weight: bold;
+}

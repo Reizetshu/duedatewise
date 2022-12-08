@@ -1,0 +1,17 @@
+form {
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bill-name {
+    margin-top: 6vh;
+    font-size: 70px;
+}
+
+.error {
+    color: red;
+}
